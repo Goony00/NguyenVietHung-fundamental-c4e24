@@ -1,0 +1,11 @@
+-range(2,10,3)
+trong do 2 la start
+        10 la stop
+        3 la step
+
+-i la con chạy
+
+-even la chan
+ odd la le
+
+-cls: xoa man hinh
