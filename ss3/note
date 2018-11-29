@@ -1,0 +1,21 @@
+kiem tra ham co chu hay ko: .isdigit()
+co chu = false
+ko co chu = true
+
+kiem tra ham co so hay ko: isalpha()
+co so= false
+ko co so= true
+
+chuyen toan bo string thanh chu in hoa : .upper()
+... in thuong: .lower()
+
+while True: :vong lap chay vo han
+while False: :ko chay vong lap nao
+
+break tac dong vao vong lap gan nhat (while, for...)
+
+sep=" " : thay the dau cach thanh kieu khac
+
+len(): số kí tự của string
+
+str(n): viết những gì đc gán vào 1 biến (n là 1 biến)
