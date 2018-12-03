@@ -19,3 +19,5 @@ sep=" " : thay the dau cach thanh kieu khac
 len(): số kí tự của string
 
 str(n): viết những gì đc gán vào 1 biến (n là 1 biến)
+
+

@@ -4,4 +4,4 @@ while True:
     if h.isdigit():
           break
 
-print ("Digit count: " + str(u))  
+print ("Digit count: " + str(u))
