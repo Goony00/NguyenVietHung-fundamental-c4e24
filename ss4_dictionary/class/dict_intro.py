@@ -14,9 +14,13 @@ person={
     "age": 25
 }
 
-print(person["name"])
+person["age"]=18
 
-if "status" in person:
-    print("yes")
-else:
-    print("no")
+print(person["age"])
+
+# print(person["name"])
+
+# if "status" in person:
+#     print("yes")
+# else:
+#     print("no")
